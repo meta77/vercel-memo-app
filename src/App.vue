@@ -89,6 +89,6 @@ button { padding: 8px 16px; background: #000; color: #fff; border: none; border-
 .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
 .logout-btn { background: #666; font-size: 0.8rem; }
 .memo-list { list-style: none; padding: 0; margin-top: 20px; }
-.memo-list li { background: #f4f4f4; padding: 10px; margin-bottom: 8px; border-radius: 4px; display: flex; justify-content: space-between; }
+.memo-list li { background: #393838; padding: 10px; margin-bottom: 8px; border-radius: 4px; display: flex; justify-content: space-between; }
 .date { font-size: 0.7rem; color: #888; align-self: center; }
 </style>
