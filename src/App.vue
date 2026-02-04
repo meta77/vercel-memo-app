@@ -51,7 +51,7 @@ const logout = () => {
 
 <template>
   <div class="container">
-    <h1>📝 Vercel Memo App</h1>
+    <h1>-- Memo --</h1>
 
     <div v-if="!isLoggedIn" class="login-box">
       <h2>ログイン</h2>
