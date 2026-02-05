@@ -62,7 +62,7 @@ const logout = () => {
 
     <div v-else>
       <div class="header">
-        <p>ようこそ、<strong>{{ currentUser }}</strong> さん</p>
+        <p>ようこそ、<strong>{{ currentUser }}</strong> さん </p>
         <button @click="logout" class="logout-btn">ログアウト</button>
       </div>
 
