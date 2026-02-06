@@ -90,6 +90,6 @@ button { padding: 8px 16px; background: #000; color: #fff; border: none; border-
 .logout-btn { background: #666; font-size: 0.8rem; }
 .memo-list { list-style: none; padding: 0; margin-top: 20px; }
 .memo-list li { background: #393838; padding: 10px; margin-bottom: 8px; border-radius: 4px; display: flex; justify-content: space-between; }
-.memo-text { font-size: 0.7rem; color: #888; align-self: center; }
+.memo-text { font-size: 0.7rem; color: #e5e2e2; align-self: center; }
 .date { font-size: 0.7rem; color: #888; align-self: center; }
 </style>
